@@ -1,7 +1,9 @@
 ![](/Github&#32;Assets/Cover.png)
 
 # KDInstagram (Instagram Clone using MVC, MVVM, VIPER)
+Instagram is an international photo and video-sharing social networking service owned by Facebook, Inc. It was created by Kevin Systrom and Mike Krieger and launched in October 2010 on iOS. <br>
 
+This is a basic iOS application that uses the three design patterns and local data to create a clone of the Instagram App.
 # Preview
 
 ## Feed
