@@ -5,6 +5,7 @@
 # Preview
 
 ## Feed
+![](https://media.giphy.com/media/YQMMwhO1tI53j7PfBr/giphy.gif)
 
 ## Search
 
@@ -13,8 +14,6 @@
 
 
 ## Structure
-<iframe src="https://giphy.com/embed/YQMMwhO1tI53j7PfBr" width="232" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/YQMMwhO1tI53j7PfBr">via GIPHY</a></p>
-
 Feed | Design Pattern | Used with
 ---- | -------------- | ------------
 Feed | VIPER | 
