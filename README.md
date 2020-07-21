@@ -33,3 +33,6 @@ Profile | &#32; &#32; MVC | Singleton
 - RxSwift
 - GrowingTextView
 - FlexiblePageControl
+
+## About Author
+
