@@ -18,11 +18,11 @@
 
 
 ## Structure
-Feed | Design Pattern | Used with
+Module | Design Pattern | Used with
 ---- | -------------- | ------------
-Feed | VIPER | 
-Search | MVVM | RxSwift
-Profile | MVC | Singleton
+Feed | &#32;&#32;VIPER | &#32;&#32;\
+Search | &#32;&#32;MVVM | RxSwift
+Profile | &#32;&#32;MVC | Singleton
 
 ## Third Party Libraries
 
