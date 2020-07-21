@@ -20,6 +20,7 @@
 		180C02A924BF884400197FE1 /* PostDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180C02A824BF884400197FE1 /* PostDetailTableViewController.swift */; };
 		181DE85524C2381E00C22779 /* SearchedUserTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181DE85424C2381E00C22779 /* SearchedUserTableViewCell.swift */; };
 		181DE85724C2CFF700C22779 /* StoryCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 181DE85624C2CFF700C22779 /* StoryCollectionViewCell.swift */; };
+		1838F18F24C6D4890027AB23 /* heart.json in Resources */ = {isa = PBXBuildFile; fileRef = 1838F18E24C6D4890027AB23 /* heart.json */; };
 		186EFB7324BD604900A26CC1 /* CommentProtocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186EFB7224BD604900A26CC1 /* CommentProtocols.swift */; };
 		186EFB7524BD61BF00A26CC1 /* CommentPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186EFB7424BD61BF00A26CC1 /* CommentPresenter.swift */; };
 		186EFB7724BD61D600A26CC1 /* CommentRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186EFB7624BD61D600A26CC1 /* CommentRouter.swift */; };
@@ -30,7 +31,6 @@
 		186EFB8824BE808200A26CC1 /* ProfilePostViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 186EFB8724BE808200A26CC1 /* ProfilePostViewController.swift */; };
 		1895785424BF912A00B4AAE1 /* PostTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1895785324BF912A00B4AAE1 /* PostTableViewCell.xib */; };
 		1895785624BF93A100B4AAE1 /* PostImageCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1895785524BF93A100B4AAE1 /* PostImageCollectionViewCell.xib */; };
-		1895785924BFB97A00B4AAE1 /* heart.json in Resources */ = {isa = PBXBuildFile; fileRef = 1895785824BFB97A00B4AAE1 /* heart.json */; };
 		1897D57D24BBDC2D008B95B1 /* FeedTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897D57C24BBDC2D008B95B1 /* FeedTableViewCell.swift */; };
 		1897D57F24BBDC46008B95B1 /* Post.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897D57E24BBDC46008B95B1 /* Post.swift */; };
 		1897D58124BBDC4E008B95B1 /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1897D58024BBDC4E008B95B1 /* User.swift */; };
@@ -103,6 +103,7 @@
 		180C02A824BF884400197FE1 /* PostDetailTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailTableViewController.swift; sourceTree = "<group>"; };
 		181DE85424C2381E00C22779 /* SearchedUserTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchedUserTableViewCell.swift; sourceTree = "<group>"; };
 		181DE85624C2CFF700C22779 /* StoryCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryCollectionViewCell.swift; sourceTree = "<group>"; };
+		1838F18E24C6D4890027AB23 /* heart.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = heart.json; sourceTree = "<group>"; };
 		186EFB7224BD604900A26CC1 /* CommentProtocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentProtocols.swift; sourceTree = "<group>"; };
 		186EFB7424BD61BF00A26CC1 /* CommentPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentPresenter.swift; sourceTree = "<group>"; };
 		186EFB7624BD61D600A26CC1 /* CommentRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentRouter.swift; sourceTree = "<group>"; };
@@ -113,7 +114,6 @@
 		186EFB8724BE808200A26CC1 /* ProfilePostViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfilePostViewController.swift; sourceTree = "<group>"; };
 		1895785324BF912A00B4AAE1 /* PostTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PostTableViewCell.xib; sourceTree = "<group>"; };
 		1895785524BF93A100B4AAE1 /* PostImageCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PostImageCollectionViewCell.xib; sourceTree = "<group>"; };
-		1895785824BFB97A00B4AAE1 /* heart.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = heart.json; path = ../../../../../../Downloads/heart.json; sourceTree = "<group>"; };
 		1897D57C24BBDC2D008B95B1 /* FeedTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedTableViewCell.swift; sourceTree = "<group>"; };
 		1897D57E24BBDC46008B95B1 /* Post.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Post.swift; sourceTree = "<group>"; };
 		1897D58024BBDC4E008B95B1 /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
@@ -235,12 +235,12 @@
 			path = Entity;
 			sourceTree = "<group>";
 		};
-		1895785724BFB97200B4AAE1 /* Lottie */ = {
+		1895785724BFB97200B4AAE1 /* Lottie Files */ = {
 			isa = PBXGroup;
 			children = (
-				1895785824BFB97A00B4AAE1 /* heart.json */,
+				1838F18E24C6D4890027AB23 /* heart.json */,
 			);
-			path = Lottie;
+			path = "Lottie Files";
 			sourceTree = "<group>";
 		};
 		1897D58224BBDC53008B95B1 /* Entitiy */ = {
@@ -297,7 +297,7 @@
 		1897D59124BC24E0008B95B1 /* Data Set */ = {
 			isa = PBXGroup;
 			children = (
-				1895785724BFB97200B4AAE1 /* Lottie */,
+				1895785724BFB97200B4AAE1 /* Lottie Files */,
 				1897D5AA24BC4C34008B95B1 /* DataGenerator.swift */,
 				18A4873624BBD9E400BD0923 /* Assets.xcassets */,
 			);
@@ -740,9 +740,9 @@
 				1895785624BF93A100B4AAE1 /* PostImageCollectionViewCell.xib in Resources */,
 				18A4873A24BBD9E400BD0923 /* LaunchScreen.storyboard in Resources */,
 				186EFB8624BE801F00A26CC1 /* Profile.storyboard in Resources */,
-				1895785924BFB97A00B4AAE1 /* heart.json in Resources */,
 				180C02A024BE858E00197FE1 /* .gitkeep in Resources */,
 				18A4873724BBD9E400BD0923 /* Assets.xcassets in Resources */,
+				1838F18F24C6D4890027AB23 /* heart.json in Resources */,
 				1895785424BF912A00B4AAE1 /* PostTableViewCell.xib in Resources */,
 				18A4873224BBD9E200BD0923 /* Main.storyboard in Resources */,
 				180C02A724BE85B400197FE1 /* Default-568h@2x.png in Resources */,
