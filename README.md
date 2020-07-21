@@ -1,8 +1,9 @@
 ![](/Github&#32;Assets/Cover.png)
-<div align="center">
+
+<p align="center">
  ![Swift 5.x](https://img.shields.io/badge/Swift-5.x-orange.svg)
  [![Support](https://img.shields.io/badge/iOS-13%2B-brightgreen)](https://www.apple.com/nl/ios/)
-</div>
+</p>
 # KDInstagram (Instagram Clone using MVC, MVVM, VIPER)
 Instagram is an international photo and video-sharing social networking service owned by Facebook, Inc. It was created by Kevin Systrom and Mike Krieger and launched in October 2010 on iOS. <br>
 
