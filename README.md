@@ -14,9 +14,9 @@
 
 ## Structure
 
-Feed | Design Pattern | Used with
+Feed|Design Pattern|Used with
 
------ | ----------------- | ------------
+-----|----------------- ------------
 
 Feed | VIPER | 
 
