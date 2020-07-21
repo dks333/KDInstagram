@@ -30,7 +30,7 @@ Module | Design Pattern | Used with
 <a href="https://github.com/dks333/KDInstagram/tree/master/KDInstagram/KDInstagram/Feed%20(VIPER)">Feed</a> | &#32; &#32; VIPER | &#32; &#32; N/A
 <a href="https://github.com/dks333/KDInstagram/tree/master/KDInstagram/KDInstagram/Search%20(MVVM)">Search</a> | &#32; &#32; MVVM | RxSwift
 <a href="https://github.com/dks333/KDInstagram/tree/master/KDInstagram/KDInstagram/Profile%20(MVC)">Profile</a> | &#32; &#32; MVC | Singleton
-- ![Detailed Structure Documentation]()
+- ![Detailed Structure Documentation](/Structure for KDInstagram.md)
 
 ## Third Party Libraries
 
