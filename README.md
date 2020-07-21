@@ -35,4 +35,4 @@ Profile | &#32; &#32; MVC | Singleton
 - FlexiblePageControl
 
 ## About Author
-
+Sam Ding, [dingkaishan@gmail.com](mailto:dingkaishan@gmail.com)
