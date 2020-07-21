@@ -1,6 +1,8 @@
 ![](/Github&#32;Assets/Cover.png)
+<div align="center">
  ![Swift 5.x](https://img.shields.io/badge/Swift-5.x-orange.svg)
  [![Support](https://img.shields.io/badge/iOS-13%2B-brightgreen)](https://www.apple.com/nl/ios/)
+</div>
 # KDInstagram (Instagram Clone using MVC, MVVM, VIPER)
 Instagram is an international photo and video-sharing social networking service owned by Facebook, Inc. It was created by Kevin Systrom and Mike Krieger and launched in October 2010 on iOS. <br>
 
@@ -23,10 +25,9 @@ This is a basic iOS application that uses the three design patterns and local da
 ## Structure
 Module | Design Pattern | Used with
 ---- | -------------- | ------------
-Feed | &#32; &#32; VIPER | &#32; &#32; \
-Search | &#32; &#32; MVVM | RxSwift
-Profile | &#32; &#32; MVC | Singleton
-
+<a href="https://github.com/dks333/KDInstagram/tree/master/KDInstagram/KDInstagram/Feed%20(VIPER)">Feed</a> | &#32; &#32; VIPER | &#32; &#32; N/A
+<a href="https://github.com/dks333/KDInstagram/tree/master/KDInstagram/KDInstagram/Search%20(MVVM)">Search</a> | &#32; &#32; MVVM | RxSwift
+<a href="https://github.com/dks333/KDInstagram/tree/master/KDInstagram/KDInstagram/Profile%20(MVC)">Profile</a> | &#32; &#32; MVC | Singleton
 ## Third Party Libraries
 
 - <a href="http://airbnb.io/lottie/#/README">Lottie</a>
