@@ -1,0 +1,6 @@
+framework module Nantes {
+  umbrella header "Nantes-umbrella.h"
+
+  export *
+  module * { export * }
+}

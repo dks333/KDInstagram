@@ -1,0 +1,6 @@
+framework module Pods_KDInstagram_KDInstagramUITests {
+  umbrella header "Pods-KDInstagram-KDInstagramUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

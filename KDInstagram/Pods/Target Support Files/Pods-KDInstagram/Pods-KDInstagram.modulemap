@@ -1,0 +1,6 @@
+framework module Pods_KDInstagram {
+  umbrella header "Pods-KDInstagram-umbrella.h"
+
+  export *
+  module * { export * }
+}

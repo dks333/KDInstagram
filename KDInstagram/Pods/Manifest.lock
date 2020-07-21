@@ -1,0 +1,68 @@
+PODS:
+  - Differentiator (4.0.1)
+  - FlexiblePageControl (1.0.8)
+  - GrowingTextView (0.7.2)
+  - lottie-ios (3.1.8)
+  - Nantes (0.1.1)
+  - PryntTrimmerView (4.0.0)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SnapKit (5.0.1)
+  - SteviaLayout (4.7.3)
+  - YPImagePicker (4.2.1):
+    - PryntTrimmerView (~> 4.0.0)
+    - SteviaLayout (~> 4.7.3)
+
+DEPENDENCIES:
+  - FlexiblePageControl
+  - GrowingTextView (= 0.7.2)
+  - lottie-ios
+  - Nantes
+  - RxCocoa
+  - RxDataSources
+  - RxSwift
+  - SnapKit
+  - YPImagePicker
+
+SPEC REPOS:
+  trunk:
+    - Differentiator
+    - FlexiblePageControl
+    - GrowingTextView
+    - lottie-ios
+    - Nantes
+    - PryntTrimmerView
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - SnapKit
+    - SteviaLayout
+    - YPImagePicker
+
+SPEC CHECKSUMS:
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  FlexiblePageControl: 07f7765054f16b3f0bc3f14dfd95ab5f45817ea4
+  GrowingTextView: 876bf42005b5e4a4fd740597db12caaf41f0fe6c
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+  Nantes: e11fbe0b6214de8c09cc8b763dbf61f70fbbf885
+  PryntTrimmerView: 67e67573ffd4c073f1308effa66aefd0cfa667a0
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  YPImagePicker: 3b88ca0c50134af2856c48c481572c98a8b8b65b
+
+PODFILE CHECKSUM: ac461429d36b513e13ab1f4b0d502f1891a73929
+
+COCOAPODS: 1.9.3
