@@ -1,6 +1,7 @@
 ![](/Github&#32;Assets/Cover.png)
 
 <p align="center">
+ <img src="https://img.shields.io/badge/Swift-5.x-orange.svg"></img>
  <a href="https://img.shields.io/badge/Swift-5.x-orange.svg"></a>
  ![Swift 5.x](https://img.shields.io/badge/Swift-5.x-orange.svg)
  [![Support](https://img.shields.io/badge/iOS-13%2B-brightgreen)](https://www.apple.com/nl/ios/)
