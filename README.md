@@ -9,6 +9,11 @@
 Instagram is an international photo and video-sharing social networking service owned by Facebook, Inc. It was created by Kevin Systrom and Mike Krieger and launched in October 2010 on iOS. <br>
 
 This is a basic iOS application that uses three design patterns and local data to create a clone of the Instagram App.
+
+# Documents
+- [Notes (for developments)](Notes.md)
+- [Detailed Structure Documentation](/Structure&#32;for&#32;KDInstagram.md)
+
 # Preview
 
 ## Feed
@@ -23,14 +28,12 @@ This is a basic iOS application that uses three design patterns and local data t
 ![](https://media.giphy.com/media/lqA9LJmheIY0o14vXU/giphy.gif)
 
 
-
 ## Structure
 Module | Design Pattern | Used with
 ---- | -------------- | ------------
 <a href="https://github.com/dks333/KDInstagram/tree/master/KDInstagram/KDInstagram/Feed%20(VIPER)">Feed</a> | &#32; &#32; VIPER | &#32; &#32; N/A
 <a href="https://github.com/dks333/KDInstagram/tree/master/KDInstagram/KDInstagram/Search%20(MVVM)">Search</a> | &#32; &#32; MVVM | RxSwift
 <a href="https://github.com/dks333/KDInstagram/tree/master/KDInstagram/KDInstagram/Profile%20(MVC)">Profile</a> | &#32; &#32; MVC | Singleton
-- [Detailed Structure Documentation](/Structure&#32;for&#32;KDInstagram.md)
 
 ## Third Party Libraries
 
