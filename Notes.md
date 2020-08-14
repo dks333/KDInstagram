@@ -8,7 +8,7 @@
 - Profile(MVC)
   - Segmented Viewcontroller: Header 
 
-## Structure of every view controller
+## Structures
 
 - Feed: Multiple UITableView + CollectionView
 - LikedList: Tableview and searchbar
