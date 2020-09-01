@@ -12,7 +12,7 @@ This is a basic iOS application that uses three design patterns and local data t
 
 # Documents
 - [Notes (for developments)](Notes.md)
-- [Detailed Structure Documentation](/Structure&#32;for&#32;KDInstagram.md)
+- [Structure Documentation](/Structure&#32;for&#32;KDInstagram.md)
 
 # Preview
 
